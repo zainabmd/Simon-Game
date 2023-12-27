@@ -1,4 +1,4 @@
-**Simon Game**
+# Simon Game
 
 Live preview: https://simon-game-js.vercel.app
 
